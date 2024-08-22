@@ -1,3 +1,3 @@
 # dsa-learning
-Author - Rahul Srivastava
+Author - Rahul Srivastava<br>
 Will contain all dsa learnign
